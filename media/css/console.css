@@ -1,0 +1,9 @@
+body {margin:0px; padding:0px;}
+
+h1 {font: 32pt georgia; color: #666666; background: #222; margin-bottom: 0px; display:block;}
+h1:hover {color:#888888;}
+h2 {font: 32pt georgia;	color:#666666; background:#222;	margin-top: 40px; margin-bottom: 0px; }
+h2:hover {color:#888888;}
+
+table {border:0px solid #533465; margin:0px; padding:0px;}
+table td {font: 8pt georgia; color: #533465; padding:2px 10px;}
